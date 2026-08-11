@@ -4,7 +4,7 @@
 | partition |  quelqu'un |
 | ------ | ------ |
 | bpm partition | bpm quelqu'un |
-| caractere de la partition  | caractere ou jugement de quelqu'un |
+| caractere , altérations ou liaisons de la partition  | caractere ou jugement de quelqu'un |
 | nuances et caractere partition | émotions de  quelqu'un |
 | rythme /notes de la  partition | logique de quelqu'un |
 | notes de la partition, armure, chiffrage, titre compositeur/rice | mémoire  de quelqu'un |
