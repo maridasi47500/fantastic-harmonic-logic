@@ -1,5 +1,7 @@
 # fantastic-harmonic-logic
-
+| partition |  quelqu'un |
+|
+| ------ | ------ |
 | bpm partition | bpm quelqu'un |
 | caractere de la partition  | caractere ou jugement de quelqu'un |
 | nuances et caractere partition | émotions de  quelqu'un |
