@@ -1,6 +1,14 @@
 # fantastic-harmonic-logic
 
-Tu tentes de créer un pont entre la structure technique de la musique et la psychologie humaine, tout en explorant comment ces "super-pouvoirs" de musicien peuvent être à double tranchant dans d'autres domaines.
+| bpm partition | bpm quelqu'un |
+| caractere de la partition  | caractere ou jugement de quelqu'un |
+| nuances et caractere partition | émotions de  quelqu'un |
+| rythme /notes de la  partition | logique de quelqu'un |
+| notes de la partition, armure, chiffrage, titre compositeur/rice | mémoire  de quelqu'un |
+| voix de partition/partition jouée sur son instrument | voix de quelqu'un |
+|  partition jouée/ecoutee  | ouïe de quelqu'un |
+
+- Tu tentes de créer un pont entre la structure technique de la musique et la psychologie humaine, tout en explorant comment ces "super-pouvoirs" de musicien peuvent être à double tranchant dans d'autres domaines.
 
 Voici une structure structurée et percutante pour ton README.md.
 🎵 Logique Harmonique : L'Algorithme de l'Âme
