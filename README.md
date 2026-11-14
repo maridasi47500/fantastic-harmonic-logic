@@ -1,14 +1,24 @@
 # fantastic-harmonic-logic
+- lieu : ton logement, ou travail
+- imaginer : envoyer des messages
 
 
+- usual actions : publier de la musique ajoute le rythme,
+- 
+- ajouter les nuances dans la partition
+- ajouter les voix de l partition etc un par un ou tout d'un coup = usual action
+- unusual action : envoyer un message à quelqu'un ecrit, video, et enregistré
+- envoyer un message toujorus accompagné de notez de musique
+- remplir des champ sur un message avant de repondre , qu'est-ce que tu rappelles quand tu lis un messge, quelle emotion tu as avec ce message
+- 
 | partition |  quelqu'un |
 | ------ | ------ |
 | bpm partition | bpm quelqu'un |
 | caractere , altérations ou liaisons de la partition  | caractere ou jugement de quelqu'un |
 | nuances et caractere partition | émotions de  quelqu'un |
-| rythme /notes de la  partition | logique de quelqu'un |
-| notes de la partition, armure, chiffrage, titre compositeur/rice | mémoire  de quelqu'un |
-| voix de partition/partition jouée sur son instrument | voix de quelqu'un |
+| rythme /notes de la  partition, time signature, key signature | logique de quelqu'un |
+| notes de la partition, enregistrement de la musique, titre compositeur/rice | mémoire  de quelqu'un |
+| voix de partition/partition jouée sur quel instrument | voix de quelqu'un |
 |  partition jouée/ecoutee  | ouïe de quelqu'un |
 
 - Tu tentes de créer un pont entre la structure technique de la musique et la psychologie humaine, tout en explorant comment ces "super-pouvoirs" de musicien peuvent être à double tranchant dans d'autres domaines.
