@@ -13,7 +13,7 @@
 - 
 | partition |  quelqu'un |
 | ------ | ------ |
-| bpm partition | bpm quelqu'un |
+| bpm partition | bpm quelqu'un, quelqu'un connait al musique par coeur|
 | caractere , altérations ou liaisons de la partition  | caractere ou jugement de quelqu'un |
 | nuances et caractere partition | émotions de  quelqu'un |
 | rythme /notes de la  partition, time signature, key signature | logique de quelqu'un |
