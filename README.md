@@ -1,7 +1,7 @@
 # fantastic-harmonic-logic
 - lieu : ton logement, ou travail
 - imaginer : envoyer des messages
-
+- tu dois faire le projet, le sport ensemble
 
 - usual actions : publier de la musique ajoute le rythme,
 - 
