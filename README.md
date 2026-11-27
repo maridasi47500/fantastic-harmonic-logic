@@ -11,6 +11,8 @@
 - envoyer un message toujorus accompagné de notez de musique
 - remplir des champ sur un message avant de repondre , qu'est-ce que tu rappelles quand tu lis un messge, quelle emotion tu as avec ce message
 - 
+- job board 
+- event board member board service board housing board task board
 | partition |  quelqu'un |
 | ------ | ------ |
 | bpm partition | bpm quelqu'un, quelqu'un connait al musique par coeur|
